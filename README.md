@@ -12,12 +12,12 @@
 ## 🌐 Portfolio Projects
 
 ### 🎮 GameHub Theta
-A gaming platform with modern UI.
+A gaming platform with modern UI. Aiming to connect Gamers From All around the World.
 
 🔗 https://gamehub-v2-theta.vercel.app
 
 ### 🤖 GASCB Bot
-An AI-powered bot project.
+An AI-powered bot project, Created for Garrison Academy (GASCB), Works Exceptionally Well.
 
 🔗 https://gascb-bot.vercel.app/
 
