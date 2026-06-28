@@ -32,18 +32,18 @@ An AI-powered bot project, Created for Garrison Academy (GASCB), Works Exception
 
 ## 📊 GitHub Stats
 
-![Fahham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Fahham's GitHub stats](https://github-readme-stats.vercel.app/api?username=BinFayyaz&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinFayyaz&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BinFayyaz&theme=tokyonight)
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+- GitHub: https://github.com/BinFayyaz
+- Email: fahamfayyaz6@gmail.com
 
 ---
 ⭐ Thanks for visiting my profile!
