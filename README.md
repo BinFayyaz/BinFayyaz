@@ -128,7 +128,6 @@ A multifunctional WhatsApp bot built using Node.js featuring AI integrations, ga
 # 📫 Connect With Me
 
 * 📧 Email: [fahamfayyaz6@gmail.com](mailto:fahamfayyaz6@gmail.com)
-* 💻 GitHub: https://github.com/BinFayyaz
 
 ---
 
